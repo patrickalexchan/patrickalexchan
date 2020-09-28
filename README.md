@@ -3,7 +3,7 @@
 <b>Hello There</b><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 </p>
 
-I'm from Indonesia and currently live in Malaysia as an Engineer Manager in AirAsia.
+I'm from Indonesia and currently live in Malaysia as an Engineering Manager in AirAsia.
 
 ### About me
 - An Agile Practicioner
