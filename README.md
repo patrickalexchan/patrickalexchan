@@ -1,16 +1,28 @@
-### Hi there 👋
+## Patrick Alexander
+<p><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+<b>Hello There</b><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+</p>
 
-<!--
-**patrickalexchan/patrickalexchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm from Indonesia and currently live in Malaysia as an Engineer Manager in AirAsia.
 
-Here are some ideas to get you started:
+### About me
+- An Agile Practicioner
+- Have 8 years experience to build a product and like to create solutions
+- Helping Digital Transformation in the company
+- Currently programming in Golang / NodeJS
+- Still love to code !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Let's get in touch
+<a href="https://www.linkedin.com/in/patrickalexchan/">
+  <img align="left" alt="Patrick's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://t.me/patrickalexchan">
+  <img align="left" alt="Patrick's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.hackerrank.com/patrickalexchan">
+  <img align="left" alt="Patrick's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a>
+<a href="https://github.com/patrickalexchan">
+  <img align="left" alt="Patrick's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
